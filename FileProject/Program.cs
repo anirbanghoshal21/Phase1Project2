@@ -40,7 +40,7 @@ namespace Phase1Project2
             string[] records=rec.Split(new string[]{"\r\n"}, StringSplitOptions.None);
             /*foreach (string record in records)
             {
-                if (record.Trim() != "")
+                if (record.Trim()!= "")
                     Console.WriteLine(record);
             } */
             //Console.Write(rec);
